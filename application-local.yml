@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: backend
+
+submodule:
+  author:
+    joyson5582-local
